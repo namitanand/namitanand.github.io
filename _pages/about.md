@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a Postdoctoral Researcher (&rarr; Staff Scientist in 2024!) working in quantum information theory and quantum computation at the Quantum AI Lab (QuAIL) at NASA Ames Research Center and KBR. I received my PhD in Physics from the University of Southern California (USC) under the (wonderful) supervision of Paolo Zanardi. My coadvisors were Todd Brun and Aaron Lauda. Before that, I received my Integrated Master of Science (BS-MS) in Physics from the National Institute of Science Education and Research (NISER), Bhubaneswar.
 
-Note: This webpage is work in progress, please ignore any errors in the meantime (should be resolved by this weekend; having some issues with `magit').
+**Note: This webpage is work in progress, please ignore any errors in the meantime (should be resolved by this weekend; having some issues with `magit').**
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`.  -->
 
