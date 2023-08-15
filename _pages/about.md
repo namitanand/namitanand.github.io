@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Postdoctoral Researcher (-> Staff Scientist in 2024!) working in quantum information theory and quantum computation at the Quantum AI Lab (QuAIL) at NASA Ames Research Center and KBR. I received my PhD in Physics from the University of Southern California (USC) under the (wonderful) supervision of Paolo Zanardi. My coadvisors were Todd Brun and Aaron Lauda. Before that, I received my Integrated Master of Science (BS-MS) in Physics from the National Institute of Science Education and Research (NISER), Bhubaneswar.
+
+# The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
