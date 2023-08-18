@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /notes/
-title: notes
-description:
-nav: false
+permalink: /cv/
+title: cv
+description: please find here a short CV.
+nav: true
 nav_order: 5
 ---
 
-in progress
+[CV](/assets/pdf/namitanand.pdf)
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
 
