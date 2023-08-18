@@ -21,7 +21,7 @@ I'm a Postdoctoral Researcher (&rarr; Staff Scientist in 2024!) working in quant
 
 > Research interests
 
-I'm a researcher in quantum information, quantum computation, and many-body theory. My interests primarily focus on (i) application of quantum information-theoretic tools to understand information scrambling, quantum chaos, and many-body localization. (ii) resource theory of quantum coherence and its role in quantum algorithms. (iii) error mitigation for NISQ-devices. (iv) non-universal models of quantum computation such as Clifford group, matchgates, etc.
+I'm a researcher working at the interface of quantum information, quantum computation, and many-body theory. My interests primarily focus on (i) application of quantum information-theoretic tools to understand information scrambling, quantum chaos, and many-body localization. (ii) resource theory of quantum coherence and its role in quantum algorithms. (iii) error mitigation for NISQ-devices. (iv) non-universal models of quantum computation such as Clifford group, matchgates, etc.
 
 <!-- > Note: work in progress, please ignore any errors in the meantime (should be resolved by this weekend; having some issues with `magit'!). -->
 
