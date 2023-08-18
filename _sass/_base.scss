@@ -144,7 +144,8 @@ blockquote {
 }
 
 @media (min-width: 576px) {
-  .profile {
+    .profile {
+	height: 80%;
       width: 40%;
 
     .address {
