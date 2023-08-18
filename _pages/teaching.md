@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: cv
-description: Here's a short [CV](/assets/pdf/namitanand.pdf).
+description: Here's a short [CV](../assets/pdf/namitanand.pdf).
 nav: true
 nav_order: 5
 ---
