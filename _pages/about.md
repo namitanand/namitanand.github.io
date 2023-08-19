@@ -19,8 +19,6 @@ I'm a Postdoctoral Researcher (&rarr; Staff Scientist in 2024!) working in quant
 
 I received my PhD in Physics from the [University of Southern California](https://www.usc.edu/) (USC) under the (wonderful) supervision of [Paolo Zanardi](https://dornsife.usc.edu/profile/paolo-zanardi/). I was fortunate to be coadvised by [Todd Brun](https://sites.usc.edu/tbrun/) and [Aaron Lauda](https://sites.google.com/view/lauda-home/home). Before that, I received my Integrated Master of Science (BS-MS) in Physics from the [National Institute of Science Education and Research](https://www.niser.ac.in/) (NISER), Bhubaneswar.
 
-> Research interests
-
 My research focusses on the interface between quantum information, quantum computation, and many-body theory. Specific topics include: (i) application of quantum information-theoretic tools to understand thermalization in closed quantum systems, information scrambling, quantum chaos, many-body localization, etc. (ii) quantum resource theories, in particular the resource theory of quantum coherence and its role in quantum algorithms. (iii) error mitigation for NISQ-devices. (iv) non-universal models of quantum computation such as Clifford group, matchgates, etc.
 
 <!-- > Note: work in progress, please ignore any errors in the meantime (should be resolved by this weekend; having some issues with `magit'!). -->
