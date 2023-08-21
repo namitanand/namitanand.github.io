@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-$$\blacktriangleright$$ Since Fall 2022, I'm a Postdoctoral Researcher working in quantum information and computation at the [Quantum AI Lab](https://www.nasa.gov/content/nasa-quantum-artificial-intelligence-laboratory-quail) (QuAIL) at NASA Ames Research Center and KBR. I will be a Staff Scientist beginning January 2024.
+$$\blacktriangleright$$ Since Fall 2022, I'm a Postdoctoral Researcher at the [Quantum AI Lab](https://www.nasa.gov/content/nasa-quantum-artificial-intelligence-laboratory-quail) (QuAIL) at NASA Ames Research Center and KBR. I will be a Staff Scientist beginning January 2024.
 
 $$\blacktriangleright$$ In Summer 2022, I received my PhD in Physics from the University of Southern California under the (wonderful) supervision of [Paolo Zanardi](https://dornsife.usc.edu/profile/paolo-zanardi/). I was fortunate to be coadvised by [Todd Brun](https://sites.usc.edu/tbrun/) and [Aaron Lauda](https://sites.google.com/view/lauda-home/home). Before that, I received my Integrated Master of Science (BS-MS) in Physics from the National Institute of Science Education and Research, Bhubaneswar.
 
