@@ -148,7 +148,7 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /projects/
 
 announcements:
   enabled: false
