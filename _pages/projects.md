@@ -9,9 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-# Many-body quantum chaos
-
-![Brotocs](../assets/img/brotoc.png)
+# Information Scrambling and Quantum Chaos
 
 # Quantum resource theories
 
