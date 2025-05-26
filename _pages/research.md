@@ -5,7 +5,7 @@ title: research
 nav: false
 nav_order: 3
 ---
-Information scrambling
+
 
 Qudits
 
@@ -19,18 +19,20 @@ Quantum optics
 
 </br>
 
-## Preparing quantum states with measurements
+## Information scrambling and quantum chaos
 
-<figure>
-  <img src="/MPS.png" alt="image" width="500" height="auto">
-  <figcaption>Algorithm to prepare a matrix-product state. Figure from <a href="https://doi.org/10.1103/PhysRevLett.132.040404">PRL (2024)</a>.</figcaption>
-</figure>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
 
-</br>
-
-Measurements are often solely thought of as means to extract information from a quantum state. However, measurement can also be used as an *active ingredient* in quantum protocols. This line of work explores how the resources (such as circuit depth) needed to transform a given state to a target one can be *drastically reduced* by utilizing measurements.
-
-The problem of state preparation is evidently motivated by the *practical need* to prepare states in quantum devices, e.g., for quantum computing and simulation. However, it also has a more *fundamental flavor* to it since it connects to the classification of topological phases. It turns out that measurements can significantly lower the complexity for the preparation of states, which implies that certain *topological phases collapse* when measurements are considered.
+You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+Say you wanted to write a bit about your project before you posted the rest of the images.
+You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 
 </br>
