@@ -26,10 +26,10 @@ latest_posts:
 
 $$\blacktriangleright$$ I'm a Staff Scientist at NASA Ames' [Quantum AI Lab](https://www.nasa.gov/content/nasa-quantum-artificial-intelligence-laboratory-quail) (QuAIL) and KBR. My research is focused at the intersection of quantum information theory, many-body physics, and quantum error correction.
 
-$$\blacktriangleright$$ In Summer 2022, I received my PhD in Physics from the University of Southern California under the (wonderful) supervision of [Paolo Zanardi](https://dornsife.usc.edu/profile/paolo-zanardi/). I was fortunate to be coadvised by [Todd Brun](https://sites.usc.edu/tbrun/) and [Aaron Lauda](https://sites.google.com/view/lauda-home/home). 
+$$\blacktriangleright$$ In Summer 2022, I received my PhD in Physics from the University of Southern California under the supervision of [Paolo Zanardi](https://dornsife.usc.edu/profile/paolo-zanardi/). I was fortunate to be coadvised by [Aaron Lauda](https://sites.google.com/view/lauda-home/home) and [Todd Brun](https://sites.usc.edu/tbrun/). 
 
 <!-- Before that, I received my Integrated Master of Science (BS-MS) in Physics from the National Institute of Science Education and Research, Bhubaneswar. -->
 
-$$\blacktriangleright$$ Some research areas that I'm currently interested in include: (i) thermalization in closed quantum systems, information scrambling, quantum chaos, many-body localization, (ii) quantum resource theories, in particular the resource theory of quantum coherence and its role in quantum algorithms. (iii) error mitigation for NISQ-devices. (iv) non-universal models of quantum computation such as Clifford group, matchgates, etc., (v) classical simulation of linear optics, (vi) shadow tomography.
+$$\blacktriangleright$$ Some research areas that I'm currently thinking about: information scrambling, quantum chaos, dual-unitary circuits; tensor networks and Trotter simulations; quantum error correction (group-covariant codes), surface code simulations; operator algebras and fragmentation; quantum algorithms (quantum signal processing, qubitization), quantum error mitigation for NISQ-devices (dynamical decoupling); randomized benchmarking and unitary designs for qudits; classical shadow tomography.
 
-$$\blacktriangleright$$ Miscellaneous: [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=293966). On the computer science side, I'm a "descendant" of Turing via Aaron Lauda <-- Martin Hyland <-- Robin Gandy <-- Alan Turing.
+$$\blacktriangleright$$ [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=293966). On the computer science side, I'm a "descendant" of Turing via the chain: Namit Anand <-- Aaron Lauda <-- Martin Hyland <-- Robin Gandy <-- Alan Turing.
