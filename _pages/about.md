@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Quantum physicist.
+subtitle: 
 
 profile:
   align: right
