@@ -1,9 +1,9 @@
 ---
-layout: projects
+layout: page
 permalink: /research/
 title:
 nav: true
-nav_order: 3
+nav_order: 4
 related_publications: true
 ---
 
@@ -41,7 +41,7 @@ Quantum superposition and entanglement are widely believed to be the two fundame
     </div>
 </div>
 <div class="caption">
-    Benchmarking qudit hardware and preparing nonclassical states for quantum error correction.
+    Left: Benchmarking qudit hardware with random unitaries. Right: Preparing nonclassical states for quantum error correction.
 </div>
 
 While qubits have been the traditional building-block for quantum computers for over two decades now, there is renewed interest in understanding the computational advantage offered by qudit platforms. Intuitively, qudits allow us to get more “bang for our buck” in terms of encoding more quantum information in a single unit. However, they are not without their own challenges. One of these challenges is that many quantum information primitives only work well for qudits with dimensions that are prime-power. A striking example is that there are no ‘unitary t-groups’ for non-prime power dimensions (such as d=6,10,14, and so on). A consequence of this is that the beloved Clifford group is no longer as useful for qudits as it is for qubits, e.g., one cannot twirl away an arbitrary noise channel with them. As a result, many of the standard techniques such as randomized benchmarking, classical shadow tomography, etc. no longer work in a straightforward way for qudits. In an upcoming work, we introduced a class of ‘weighted’ unitary designs that actively mitigate this issue for arbitrary dimensions (and reduce to standard Clifford group designs when the dimension is prime-power). This has allowed us to introduce a ‘native’ benchmarking scheme for cavity-QED systems where these standard techniques fail. In collaboration with Andrea Morello’s group at UNSW, I also worked on experimentally preparing and verifying ‘cat-states’ for spin qudits in {% cite Yu2025 %}. These states are the logical states for a ‘spin-GKP’ encoding that allows us to encode a logical qubit in an 8-dimensional qudit. We also utilized this Antimony qudit hardware to experimentally certify the ‘quantumness’ of nonclassical states using precession protocols in {% cite Vaartjes2025 %}. 
@@ -59,7 +59,7 @@ While qubits have been the traditional building-block for quantum computers for 
     </div>
 </div>
 <div class="caption">
-    Using operator space entanglement and quantum coherence to distinguish integrability from chaos.
+    Left: Using dynamical decoupling to improve performance of quantum hardware. Right: Development of new classical shadow tomography schemes.
 </div>
 
 building on some of my past work {% cite PhysRevLett.121.220502 %} where we demonstrated the utility of dynamical decoupling sequences in error suppression, we’re developing native DD schemes for various qudit platforms.
@@ -79,11 +79,11 @@ Classical shadow tomography is a protocol to learn many features of quantum stat
     </div>
 </div>
 <div class="caption">
-    Simulating CV systems with a coherent rank framework. Distillation schemes to extract pure photons from noisy ones.
+    Left: Simulating CV systems within a coherent rank framework. Right: Distillation schemes to extract pure photons from noisy ones and reduce distinguishability errors.
 </div>
 
 One of my key interests is in understanding the limits of quantum computers, perhaps most famously captured by the Gottesman-Knill theorem which showed that quantum circuits consisting solely of Clifford unitaries can be efficiently simulated on a classical computer. This is surprising at first glance since one can generate highly entangled states with Clifford unitaries. This theorem also breaks the blanket understanding of entanglement as the limiting factor for quantum simulation. In fact, every well-behaved quantum resource inspires its own notion of computational complexity. In {% cite Marshall_2023 %} we introduced a scheme to simulate continuous-variable (CV) systems. We showed how to systematically approximate any CV state as a linear combination of finitely many coherent states. The cost of classical simulation boils down to two independent contributions: the number of single-photon additions and the amount of squeezing. This work showed that in CV systems, non-Gaussianity is the equivalent resource to ‘magic’ in qubits.
 
-In {% cite saied2025general %}
+Fault-tolerant linear optical quantum computation relies on interference between identical photons to generate entanglement. Unfortunately, photons in the lab tend to be partially distinguishable, generating less entanglement and causing unheralded errors. In {% cite saied2025general %} we introduced families of distillation schemes that use n-photon interference and postselection to filter out “bad” photons and reduce distinguishability by a factor of n, with resource costs scaling only linearly in n. Along the way, the team also resolves an open problem regarding n-mode Fourier interferometers, namely that the Zero Transmission Law characterizes all suppression if and only if n is a prime power. 
 
 ----
