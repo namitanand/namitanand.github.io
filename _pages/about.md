@@ -32,4 +32,4 @@ $$\blacktriangleright$$ In Summer 2022, I received my PhD in Physics from the Un
 
 $$\blacktriangleright$$ Some research areas that I'm currently thinking about: information scrambling, quantum chaos, dual-unitary circuits; tensor networks and Trotter simulations; quantum error correction (group-covariant codes), surface code simulations; operator algebras and fragmentation; quantum algorithms (quantum signal processing, qubitization), quantum error mitigation for NISQ-devices (dynamical decoupling); randomized benchmarking and unitary designs for qudits; classical shadow tomography.
 
-$$\blacktriangleright$$ [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=293966). On the computer science side, I'm a "descendant" of Turing via the chain: Namit Anand <-- Aaron Lauda <-- Martin Hyland <-- Robin Gandy <-- Alan Turing.
+$$\blacktriangleright$$ [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=293966). On the CS side, my genealogy is: Alan Turing --> Robin Gandy --> Martin Hyland --> Aaron Lauda --> Namit Anand.
