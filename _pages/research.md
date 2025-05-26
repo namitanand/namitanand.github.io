@@ -1,17 +1,10 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title:
 nav: false
 nav_order: 3
 ---
-
-
-Qudits
-
-Quantum applications
-
-Quantum optics
 
 # **Research**
 
@@ -23,93 +16,41 @@ Quantum optics
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/brotoc_all.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/coherence-phases-of-matter-labeled.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Using operator space entanglement and quantum coherence to distinguish integrability from chaos.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Symmetry is perhaps the most powerful principle in all of physics. And this remains true even in the quantum realm where systems with ‘quasi-local symmetries’ are distinguished from those without. This classification goes under a more familiar name, that of integrable versus non-integrable (a.k.a. chaotic) models. Quantum systems that are integrable generate “exactly solvable” dynamics and no quantum advantage can be obtained from these. In this sense, this is not only a fundamental, rather a practical problem. However, given a Hamiltonian, it is not always easy to classify whether it is integrable or chaotic. Ideally, by simply ‘looking’ at the dynamics, one should be able to tell them apart. Unfortunately, this is rarely the case. For example, it is known that quenched entanglement cannot distinguish these two models. Over the years, several quantities such as ‘out-of-time-ordered correlators’ (OTOCs) and ‘operator space entanglement’ have been introduced to identify these phases. OTOCs were famously used to understand how information is scrambled in models of black holes. In {% cite PhysRevLett.126.030601 %} we showed that nonlocal (OTOCs) are exactly equal to the operator space entanglement of quantum many-body dynamics. While it was unclear if OTOCs are good for detecting quantum chaos in systems with locality, our work established a connection between OTOCs and operator entanglement. We then utilized operator entanglement to show that the ‘equilibration value’ of operator entanglement is a robust quantifier of non-integrability. This was one of the first rigorous connections between OTOCs and entanglement, which also clarified why OTOCs are related to ‘operator space entanglement’ and not ‘state-space entanglement’.
+
+Quantum superposition and entanglement are widely believed to be the two fundamental ingredients that distinguish quantum systems from their classical counterparts. While deep connections between entanglement and quantum ergodicity have been established over the years, our work in {% cite PhysRevB.100.224204 %} provided the first rigorous connections (both analytical and numerical) between quantum superposition and ergodicity/thermalization. Using tools from the resource theory of coherence, we showed that the amount of superposition in a quantum state (with respect to a reference basis) can be used to detect whether the dynamics is localized (and hence will escape thermalization). Building upon this, in {% cite PhysRevResearch.3.023214 %}, we showed that quantum superposition with respect to the Hamiltonian eigenbasis can detect “eigenstate phase transitions” such as the ergodic-to-localization transitions and the transition from integrability-to-chaos. An open problem here is to generalize these connections to the more exotic phenomena of Hilbert-space fragmentation and quantum many-body scars.
 
 
 </br>
-
-### Selected Publications:
-
-</br>
-
-*   *Phases of Matrix Product States with Symmetric Quantum Circuits and Symmetric Measurements with Feedforward,*  
-    Gunn, **Styliaris**, Kraft, Kraus
-    [\[PRB (2025)\]](https://journals.aps.org/prb/accepted/b507cDdeA6b1910000c96b65ac150201fc7292425)
-
-</br>
-
-*   *Characterizing MPS and PEPS Preparable via Measurement and Feedback,*  
-    Zhang, Gopalakrishnan, **Styliaris**
-    [\[PRX Quantum (2024)\]](https://doi.org/10.1103/PRXQuantum.5.040304)
-
-
-</br>
-
-*   *Approximating many-body quantum states with quantum circuits and measurements,*  
-    Piroli, **Styliaris**, Cirac
-    [\[PRL (2024)\]](https://journals.aps.org/prl/accepted/8f07aY05E9e18f84042543493780b9c85f774fc18)
-
-
-</br>
-
-*   *Preparation of Matrix Product States with Log-Depth Quantum Circuits,*  
-    Malz<sup>\*</sup>, **Styliaris<sup>\*</sup>**, Wei<sup>\*</sup>, Cirac [\[PRL (2024)\]](https://doi.org/10.1103/PhysRevLett.132.040404)
-    [\[Talk at TQC 2024 @OIST\]](https://www.youtube.com/watch?v=kIUDV3AvuiM&t=3600s)
-  
-</br>
-
-*   *Quantum Circuits Assisted by Local Operation and Classical Communication: Transformations and Phases of Matter,*  
-    Piroli, **Styliaris**, Cirac [\[PRL (2021)\]](https://doi.org/10.1103/PhysRevLett.127.220503)
-     [\[Talk at QIP 2022 @Caltech\]](https://youtu.be/mct_FB3O-Ms?si=vyQbgSB3A_uF7tLR)
-     
-</br>
-
 ----
 
 </br>
 
-## Theory of tensor networks
+## Qudits
 
-<figure>
-  <img src="/TN.png" alt="image" width="500" height="auto">
-  <figcaption>Multiple copies of a random tensor network. Figure from <a href="https://doi.org/10.1103/PRXQuantum.4.030330">PRX Quantum (2023)</a>.</figcaption>
-</figure>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/qudits-benchmark.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/qudits-test-quantumness.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Benchmarking qudit hardware and preparing nonclassical states for quantum error correction.
+</div>
 
-
-</br>
-
-The many-body Hilbert space is large, as it grows *exponentially* with the number of constituents \[*"no one can hear you scream there"*, as I learned from [Todd Brun](https://viterbi.usc.edu/directory/faculty/Brun/Todd)\]. However, when interactions are local, the corresponding low-energy eigenstates are *captured by tensor-networks*. This not only allows for an *efficient* description of the relevant quantum states, but also provides a general framework for many-body physics, in the *language of quantum information*.
-
-</br>
-
-
-### Selected Publications:
-
-
-</br>
-
-*   *Matrix-product unitaries: Beyond quantum cellular automata,*  
-    **Styliaris**, Trivedi, Pérez-García, Cirac [\[Quantum (2025)\]](https://doi.org/10.22331/q-2025-02-25-1645)
-
-</br>
-
-*   *Parent Lindbladians for Matrix Product Density Operators,*
-
-    Liu, Ruiz-de-Alarcón, **Styliaris**, Sun, Pérez-García, Cirac [\[arXiv (2025)\]](https://doi.org/10.48550/arXiv.2501.10552)
-    
-</br>
-
-*   *Typical Correlation Length of Sequentially Generated Tensor Network States,*  
-    Haag, Baccari, **Styliaris** [\[PRX Quantum (2023)\]](https://doi.org/10.1103/PRXQuantum.4.030330)
+While qubits have been the traditional building-block for quantum computers for over two decades now, there is renewed interest in understanding the computational advantage offered by qudit platforms. Intuitively, qudits allow us to get more “bang for our buck” in terms of encoding more quantum information in a single unit. However, they are not without their own challenges. One of these challenges is that many quantum information primitives only work well for qudits with dimensions that are prime-power. A striking example is that there are no ‘unitary t-groups’ for non-prime power dimensions (such as d=6,10,14, and so on). A consequence of this is that the beloved Clifford group is no longer as useful for qudits as it is for qubits, e.g., one cannot twirl away an arbitrary noise channel with them. As a result, many of the standard techniques such as randomized benchmarking, classical shadow tomography, etc. no longer work in a straightforward way for qudits. In an upcoming work, we introduced a class of ‘weighted’ unitary designs that actively mitigate this issue for arbitrary dimensions (and reduce to standard Clifford group designs when the dimension is prime-power). This has allowed us to introduce a ‘native’ benchmarking scheme for cavity-QED systems where these standard techniques fail. In collaboration with Andrea Morello’s group at UNSW, I also worked on experimentally preparing and verifying ‘cat-states’ for spin qudits in {% cite Yu2025 %}. These states are the logical states for a ‘spin-GKP’ encoding that allows us to encode a logical qubit in an 8-dimensional qudit. We also utilized this Antimony qudit hardware to experimentally certify the ‘quantumness’ of nonclassical states using precession protocols in {% cite Vaartjes2025 %}. 
 
 </br>
 
@@ -117,92 +58,49 @@ The many-body Hilbert space is large, as it grows *exponentially* with the numbe
 
 </br>
 
-## Exactly solvable quantum states and dynamics
+## Quantum applications
 
-<figure>
-  <img src="/Space_time.png" alt="image" width="700" height="auto">
-  <figcaption>A quantum circuit of space-time quantum channels. Figure from <a href="https://doi.org/10.22331/q-2023-05-24-1020">Quantum (2023)</a>.</figcaption>
-</figure>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/brotoc_all.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dust.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Using operator space entanglement and quantum coherence to distinguish integrability from chaos.
+</div>
 
-</br>
+building on some of my past work {% cite PhysRevLett.121.220502 %} where we demonstrated the utility of dynamical decoupling sequences in error suppression, we’re developing native DD schemes for various qudit platforms.
 
-Dual-unitary circuits have emerged as a rich model of quantum dynamics. While this class includes both *integrable and chaotic* models, it allows for the analytical solution of *correlation functions*. The defining property of these circuits is that, when the role of *space and time is exchanged*, the corresponding evolution remains physical, i.e., unitary.
-
-No realistic quantum system is perfectly isolated. Fortunately, it turns out that the ideas of dual-unitarity can be extended to the realm of open systems. Here we explore how, by postulating the analogous symmetry between space and time, *solvability is extended to quantum channels*.
-
-The same ideas allow to define a nontrivial subclass of 2D tensor-network states with exactly solvable single and 2-body correlation functions. The connection can be understood by interpreting the tensor-network contraction as evolution over the virtual space.
-
-</br>
-
-### Selected Publications:
-
-</br>
-
-*   *Dual-isometric Projected Entangled Pair States,*  
-    Yu, Cirac, Kos<sup>*</sup>, **Styliaris<sup>\*</sup>** [\[PRL (2024)\]](https://journals.aps.org/prl/accepted/33071Y7cFd81329590089116f7a025c305b9efdc0)
-    
-</br>
-
-*   *Circuits of space and time quantum channels,*  
-    Kos<sup>*</sup>, **Styliaris<sup>\*</sup>** [\[Quantum (2023)\]](https://doi.org/10.22331/q-2023-05-24-1020)  [\[Perspective on our article by Shane Dooley\]](https://doi.org/10.22331/qv-2023-07-26-75)
+Classical shadow tomography is a protocol to learn many features of quantum states without incurring the exponential cost associated with full tomography. The state-of-the-art method utilizes classical shadows constructed from random Clifford circuits and is known to be optimal. However, in our recent work, we showed that another exactly solvable class of quantum dynamics, so-called ‘dual-unitary’ quantum circuits, can be utilized to introduce a shadow tomography scheme {% cite akhtar2024dualunitary %}. These quantum circuits are the only local quantum dynamics that is provably quantum chaotic. They are also the ‘fastest scramblers’ of local quantum information and have found use in many exotic areas of physics such as modeling black hole phenomena. In our work, we showed that dual-unitary shadow tomography (‘DUST’) outperforms standard Clifford shadows when predicting observables with nearly full support. In fact, if we restrict to finite-depth quantum circuits, which is the only feasible scheme in the NISQ-era, DUST beats Clifford shadows at every circuit depth. Moreover, this advantage is not asymptotic, rather, it is even larger for small system sizes (number of qubits). An interesting future direction is to utilize these dual-unitary circuits for benchmarking quantum devices since they can form unitary designs at the fastest possible rates amongst all two-qubit unitaries.
 
 
 </br>
 
 ----
 
-
-
 </br>
 
 
-## Quantum information theory & Quantum computing
+## Quantum optics
 
-<figure>
-  <img src="/monotones_BW.png" alt="image" width="600" height="auto">
-  <figcaption>Symmetries in Markovian dynamics give rise to monotones. Figure from <a href="https://doi.org/10.22331/q-2020-04-30-261">Quantum (2020)</a>.</figcaption>
-</figure>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/coherent-rank.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/distillation-general.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Simulating CV systems with a coherent rank framework. Distillation schemes to extract pure photons from noisy ones.
+</div>
 
-</br>
+One of my key interests is in understanding the limits of quantum computers, perhaps most famously captured by the Gottesman-Knill theorem which showed that quantum circuits consisting solely of Clifford unitaries can be efficiently simulated on a classical computer. This is surprising at first glance since one can generate highly entangled states with Clifford unitaries. This theorem also breaks the blanket understanding of entanglement as the limiting factor for quantum simulation. In fact, every well-behaved quantum resource inspires its own notion of computational complexity. In {% cite Marshall_2023 %} we introduced a scheme to simulate continuous-variable (CV) systems. We showed how to systematically approximate any CV state as a linear combination of finitely many coherent states. The cost of classical simulation boils down to two independent contributions: the number of single-photon additions and the amount of squeezing. This work showed that in CV systems, non-Gaussianity is the equivalent resource to ‘magic’ in qubits.
 
-Quantum information offers a *powerful language* for understanding quantum phenomena through the lens of *information processing* and *computation*. I enjoy thinking about different problems from the perspective of quantum information, ranging from measurement incompatibility, to information scrambling and symmetries in open systems.
-
-
-</br>
-
-### Selected Publications:
-
-</br>
-
-*   *Accuracy guarantees and quantum advantage in analogue open quantum simulation with and without noise,*  
-    Kashyap, **Styliaris**, Mouradian, Cirac, Trivedi [\[PRX (2025)\]](https://journals.aps.org/prx/accepted/64071Ke6Ebe1f30bc85b6de6a6d889a50f914592c)
-
-</br>
-
-*   *Computable Rényi mutual information: Area laws and correlations,*  
-    Scalet, Alhambra, **Styliaris**, Cirac [\[Quantum (2021)\]](https://doi.org/10.22331/q-2021-09-14-541)
-
-</br>
-
-*   *Information Scrambling over Bipartitions: Equilibration, Entropy Production, and Typicality,*  
-    **Styliaris**, Anand, Zanardi [\[PRL (2021)\]](https://doi.org/10.1103/PhysRevLett.126.030601)
-
-</br>
-
-*   *Symmetries and monotones in Markovian quantum dynamics,*  
-    **Styliaris**, Zanardi [\[Quantum (2020)\]](https://doi.org/10.22331/q-2020-04-30-261)
-    
-</br>
-
-*   *Fundamental Limitations to Local Energy Extraction in Quantum Systems,*  
-    Alhambra, **Styliaris**, Rodríguez-Briones, Sikora, Martín-Martínez [\[PRL (2019)\]](https://doi.org/10.1103/PhysRevLett.123.190601)    
-
-</br>
-
-*   *Quantifying the Incompatibility of Quantum Measurements Relative to a Basis,*  
-    **Styliaris**, Zanardi [\[PRL (2019)\]](https://doi.org/10.1103/PhysRevLett.123.070401)
-
-
+In {% cite saied2025general %}
 
 </br>
 
