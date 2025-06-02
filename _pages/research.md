@@ -1,14 +1,10 @@
 ---
 layout: page
 permalink: /research/
-title:
+title: Research
 nav: true
 nav_order: 4
 related_publications: true
----
-
-# **Research**
-
 ---
 ## Information scrambling and quantum chaos
 
