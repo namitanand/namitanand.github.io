@@ -1,19 +1,21 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: research
 nav: true
 nav_order: 4
 related_publications: true
 ---
+(Under construction)
+
 ## Information scrambling and quantum chaos
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brotoc_all.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/brotoc_all.png" title="example image" class="img-fluid rounded z-depth-1 research-thumb" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/coherence-phases-of-matter-labeled.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/coherence-phases-of-matter-labeled.jpg" title="example image" class="img-fluid rounded z-depth-1 research-thumb" %}
     </div>
 </div>
 <div class="caption">
@@ -30,10 +32,10 @@ Quantum superposition and entanglement are widely believed to be the two fundame
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/qudits-benchmark.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/qudits-benchmark.png" title="example image" class="img-fluid rounded z-depth-1 research-thumb" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/qudits-test-quantumness.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/qudits-test-quantumness.png" title="example image" class="img-fluid rounded z-depth-1 research-thumb" %}
     </div>
 </div>
 <div class="caption">
@@ -48,10 +50,10 @@ While qubits have been the traditional building-block for quantum computers for 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brotoc_all.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/brotoc_all.png" title="example image" class="img-fluid rounded z-depth-1 research-thumb" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dust.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dust.png" title="example image" class="img-fluid rounded z-depth-1 research-thumb" %}
     </div>
 </div>
 <div class="caption">
@@ -68,10 +70,10 @@ Classical shadow tomography is a protocol to learn many features of quantum stat
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/coherent-rank.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/coherent-rank.jpg" title="example image" class="img-fluid rounded z-depth-1 research-thumb" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/distillation-general.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/distillation-general.png" title="example image" class="img-fluid rounded z-depth-1 research-thumb" %}
     </div>
 </div>
 <div class="caption">
