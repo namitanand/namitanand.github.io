@@ -10,10 +10,14 @@ related_publications: true
 
 ## Information scrambling and quantum chaos
 
-<figure>
-  <img src="assets/img/brotoc_all.png" alt="image" width="500" height="auto">
-  <figcaption>Using operator space entanglement to distinguish integrability from chaos.</a>.</figcaption>
-</figure>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/brotoc_all.png" title="example image" class="img-fluid rounded z-depth-1" sizes="200px" %}
+    </div>
+</div>
+<div class="caption">
+    Using operator space entanglement to distinguish integrability from chaos.
+</div>
 
 Symmetry is perhaps the most powerful principle in all of physics. And this remains true even in the quantum realm where systems with ‘quasi-local symmetries’ are distinguished from those without. This classification goes under a more familiar name, that of integrable versus non-integrable (a.k.a. chaotic) models. Quantum systems that are integrable generate “exactly solvable” dynamics and no quantum advantage can be obtained from these. In this sense, this is not only a fundamental, rather a practical problem. However, given a Hamiltonian, it is not always easy to classify whether it is integrable or chaotic. Ideally, by simply ‘looking’ at the dynamics, one should be able to tell them apart. Unfortunately, this is rarely the case. For example, it is known that quenched entanglement cannot distinguish these two models. Over the years, several quantities such as ‘out-of-time-ordered correlators’ (OTOCs) and ‘operator space entanglement’ have been introduced to identify these phases. OTOCs were famously used to understand how information is scrambled in models of black holes. In {% cite PhysRevLett.126.030601 %} we showed that nonlocal (OTOCs) are exactly equal to the operator space entanglement of quantum many-body dynamics. While it was unclear if OTOCs are good for detecting quantum chaos in systems with locality, our work established a connection between OTOCs and operator entanglement. We then utilized operator entanglement to show that the ‘equilibration value’ of operator entanglement is a robust quantifier of non-integrability. This was one of the first rigorous connections between OTOCs and entanglement, which also clarified why OTOCs are related to ‘operator space entanglement’ and not ‘state-space entanglement’.
 
