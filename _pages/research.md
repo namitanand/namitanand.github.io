@@ -8,6 +8,8 @@ related_publications: true
 ---
 (Under construction)
 
+$$\blacktriangleright$$ Research interests: information scrambling, quantum chaos, dual-unitary circuits; tensor networks and Trotter simulations; quantum error correction (group-covariant codes); operator algebras and fragmentation; quantum algorithms (quantum signal processing, qubitization), quantum error mitigation for NISQ-hardware; randomized benchmarking and unitary designs for qudits; classical shadow tomography.
+
 ## Information scrambling and quantum chaos
 
 <div class="row">
@@ -16,7 +18,7 @@ related_publications: true
          loading="eager"
          path="assets/img/brotoc_all.png"
          class="img-fluid rounded z-depth-1 research-thumb"
-         sizes="300px" %}
+         sizes="100px" %}
     </div>
 </div>
 <div class="caption">
