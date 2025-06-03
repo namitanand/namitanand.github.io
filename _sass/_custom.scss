@@ -1,8 +1,0 @@
-/* research page thumbnails */
-.research-thumb {
-  width: 100%;            /* responsive inside Bootstrap column       */
-  aspect-ratio: 4 / 3;    /* pick 1:1 for squares, 16/9 for wide, etc */
-  object-fit: cover;      /* centre-crop so every tile is filled      */
-  /* beat the inline style coming from figure.liquid */
-  height: auto !important;
-}

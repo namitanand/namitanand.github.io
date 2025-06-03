@@ -13,12 +13,12 @@ $$\blacktriangleright$$ Research interests: information scrambling, quantum chao
 ## Information scrambling and quantum chaos
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid
          loading="eager"
          path="assets/img/brotoc_all.png"
-         class="img-fluid rounded z-depth-1 research-thumb"
-         sizes="100px" %}
+         class="img-fluid rounded z-depth-1"
+         %}
     </div>
 </div>
 <div class="caption">
@@ -34,7 +34,7 @@ Quantum superposition and entanglement are widely believed to be the two fundame
 ## Qudits
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/qudits-test-quantumness.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -49,7 +49,7 @@ While qubits have been the traditional building-block for quantum computers for 
 ## Quantum applications
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/dust.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -66,7 +66,7 @@ Classical shadow tomography is a protocol to learn many features of quantum stat
 ## Quantum optics
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/coherent-rank.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
