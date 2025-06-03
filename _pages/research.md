@@ -6,21 +6,21 @@ nav: true
 nav_order: 4
 related_publications: true
 ---
-(Under construction)
-
 $$\blacktriangleright$$ Research interests: information scrambling, quantum chaos, dual-unitary circuits; tensor networks and Trotter simulations; quantum error correction (group-covariant codes); operator algebras and fragmentation; quantum algorithms (quantum signal processing, qubitization), quantum error mitigation for NISQ-hardware; randomized benchmarking and unitary designs for qudits; classical shadow tomography.
+
+----
 
 ## Information scrambling and quantum chaos
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid
-         loading="eager"
+  <div class="col-md-6 offset-md-3">  {# 6/12 wide, 3/12 empty on each side #}
+    {% include figure.liquid
          path="assets/img/brotoc_all.png"
-         class="img-fluid rounded z-depth-1"
-         %}
-    </div>
+         title="Operator-space entanglement vs chaos"
+         class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
+
 <div class="caption">
     Using operator space entanglement to distinguish integrability from chaos.
 </div>
