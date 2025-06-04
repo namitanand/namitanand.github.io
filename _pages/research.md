@@ -9,7 +9,7 @@ related_publications: true
 $$\blacktriangleright$$ Research interests: information scrambling, quantum chaos, dual-unitary circuits; tensor networks and Trotter simulations; quantum error correction (group-covariant codes); operator algebras and fragmentation; quantum algorithms (quantum signal processing, qubitization), quantum error mitigation for NISQ-hardware; randomized benchmarking and unitary designs for qudits; classical shadow tomography.
 
 ----
-</br>
+
 
 ## Information scrambling and quantum chaos
 
@@ -26,9 +26,9 @@ Symmetry is perhaps the most powerful principle in all of physics. And this rema
 
 Quantum superposition and entanglement are widely believed to be the two fundamental ingredients that distinguish quantum systems from their classical counterparts. While deep connections between entanglement and quantum ergodicity have been established over the years, our work in {% cite PhysRevB.100.224204 %} provided the first rigorous connections (both analytical and numerical) between quantum superposition and ergodicity/thermalization. Using tools from the resource theory of coherence, we showed that the amount of superposition in a quantum state (with respect to a reference basis) can be used to detect whether the dynamics is localized (and hence will escape thermalization). Building upon this, in {% cite PhysRevResearch.3.023214 %}, we showed that quantum superposition with respect to the Hamiltonian eigenbasis can detect “eigenstate phase transitions” such as the ergodic-to-localization transitions and the transition from integrability-to-chaos. An open problem here is to generalize these connections to the more exotic phenomena of Hilbert-space fragmentation and quantum many-body scars.
 
-</br>
+
 ----
-</br>
+
 
 ## Qudits
 
@@ -43,9 +43,9 @@ Quantum superposition and entanglement are widely believed to be the two fundame
 
 While qubits have been the traditional building-block for quantum computers for over two decades now, there is renewed interest in understanding the computational advantage offered by qudit platforms. Intuitively, qudits allow us to get more “bang for our buck” in terms of encoding more quantum information in a single unit. However, they are not without their own challenges. One of these challenges is that many quantum information primitives only work well for qudits with dimensions that are prime-power. A striking example is that there are no ‘unitary t-groups’ for non-prime power dimensions (such as d=6,10,14, and so on). A consequence of this is that the beloved Clifford group is no longer as useful for qudits as it is for qubits, e.g., one cannot twirl away an arbitrary noise channel with them. As a result, many of the standard techniques such as randomized benchmarking, classical shadow tomography, etc. no longer work in a straightforward way for qudits. In an upcoming work, we introduced a class of ‘weighted’ unitary designs that actively mitigate this issue for arbitrary dimensions (and reduce to standard Clifford group designs when the dimension is prime-power). This has allowed us to introduce a ‘native’ benchmarking scheme for cavity-QED systems where these standard techniques fail. In collaboration with Andrea Morello’s group at UNSW, I also worked on experimentally preparing and verifying ‘cat-states’ for spin qudits in {% cite Yu2025 %}. These states are the logical states for a ‘spin-GKP’ encoding that allows us to encode a logical qubit in an 8-dimensional qudit. We also utilized this Antimony qudit hardware to experimentally certify the ‘quantumness’ of nonclassical states using precession protocols in {% cite Vaartjes2025 %}. 
 
-</br>
+
 ----
-</br>
+
 
 ## Quantum applications
 
@@ -62,9 +62,9 @@ Dynamical decoupling is the _cheapest_ form of quantum error suppression availab
 
 Classical shadow tomography is a protocol to learn many features of quantum states without incurring the exponential cost associated with full tomography. The state-of-the-art method utilizes classical shadows constructed from random Clifford circuits and is known to be optimal. However, in our recent work, we showed that another exactly solvable class of quantum dynamics, so-called ‘dual-unitary’ quantum circuits, can be utilized to introduce a shadow tomography scheme {% cite akhtar2024dualunitary %}. These quantum circuits are the only local quantum dynamics that is provably quantum chaotic. They are also the ‘fastest scramblers’ of local quantum information and have found use in many exotic areas of physics such as modeling black hole phenomena. In our work, we showed that dual-unitary shadow tomography (‘DUST’) outperforms standard Clifford shadows when predicting observables with nearly full support. In fact, if we restrict to finite-depth quantum circuits, which is the only feasible scheme in the NISQ-era, DUST beats Clifford shadows at every circuit depth. Moreover, this advantage is not asymptotic, rather, it is even larger for small system sizes (number of qubits). An interesting future direction is to utilize these dual-unitary circuits for benchmarking quantum devices since they can form unitary designs at the fastest possible rates amongst all two-qubit unitaries.
 
-</br>
+
 ----
-</br>
+
 
 ## Quantum optics
 
