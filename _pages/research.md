@@ -71,8 +71,8 @@ Classical shadow tomography is a protocol to learn many features of quantum stat
 <div class="row">
   <div class="col-md-6 offset-md-3">
     {% include figure.liquid
-         path="assets/img/coherent-rank.jpg"
-         title="Coherent rank simulations"
+         path="assets/img/distillation-general.png"
+         title="N-photon distillation schemes from Fourier transforms"
          class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
