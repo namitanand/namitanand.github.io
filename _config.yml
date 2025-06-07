@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Namit
 middle_name: 
 last_name: Anand
-contact_note: $$\blacktriangleright$$ [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=293966): on the CS side, my genealogy is: Alan Turing $$\rightarrow$$ Robin Gandy $$\rightarrow$$ Martin Hyland $$\rightarrow$$ Aaron Lauda $$\rightarrow$$ Namit Anand.
+contact_note: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Namit Anand.
 footer_text: >
