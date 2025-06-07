@@ -7,9 +7,8 @@ first_name: Namit
 middle_name: 
 last_name: Anand
 contact_note:
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Namit Anand.
-footer_text: >
+description:
+footer_text: $$\blacktriangleright$$ [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=293966): on the CS side, my genealogy is: Alan Turing $$\rightarrow$$ Robin Gandy $$\rightarrow$$ Martin Hyland $$\rightarrow$$ Aaron Lauda $$\rightarrow$$ Namit Anand.
 keywords: # jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # ⚛️  the emoji used as the favicon (alternatively, provide image name in /assets/img/)
