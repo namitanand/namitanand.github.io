@@ -28,4 +28,6 @@ $$\blacktriangleright$$ I'm a Staff Scientist at NASA Ames' [Quantum AI Lab](htt
 
 $$\blacktriangleright$$ In Summer 2022, I received my PhD in Physics from the University of Southern California under the supervision of [Paolo Zanardi](https://dornsife.usc.edu/profile/paolo-zanardi/). I was fortunate to be coadvised by [Aaron Lauda](https://sites.google.com/view/lauda-home/home) and [Todd Brun](https://sites.usc.edu/tbrun/). 
 
+$$\blacktriangleright$$ [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=293966): on the CS side, my genealogy is: Alan Turing $$\rightarrow$$ Robin Gandy $$\rightarrow$$ Martin Hyland $$\rightarrow$$ Aaron Lauda $$\rightarrow$$ Namit Anand.
+
 <!-- Before that, I received my Integrated Master of Science (BS-MS) in Physics from the National Institute of Science Education and Research, Bhubaneswar. -->
