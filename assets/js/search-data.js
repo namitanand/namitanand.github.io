@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-machine-learning-for-quantum-matter-ml4qm",
-          title: "Machine Learning for Quantum Matter (ML4QM)",
+        },{id: "nav-ml4qm",
+          title: "ML4QM",
           description: "",
           section: "Navigation",
           handler: () => {
