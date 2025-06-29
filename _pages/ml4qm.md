@@ -8,6 +8,15 @@ nav_order: 5
 
 Together with [Barry Sanders](https://iqst.ca/people/peoplepage.php?id=4) (UCalgary), [Sourin Das](https://www.iiserkol.ac.in/web/en/people/faculty/dps/sourin/#gsc.tab=0) (IISER, Kolkata), and [T S Mahesh](http://sites.iiserpune.ac.in/~mahesh.ts/homepage.htm) (IISER, Pune), I'm organizing a two-week workshop on Machine Learning for Quantum Matter (ML4QM) at ICTS, Bangalore. The most likely dates are mid-December 2026.
 
+<div class="row">
+  <div class="col-md-6 offset-md-3">
+    {% include figure.liquid
+         path="assets/img/ml4qm.png"
+         title="Learning quantum matter with neural networks"
+         class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
 
 ## Brief description of the program
 
@@ -16,6 +25,7 @@ The unprecedented progress in classical machine learning over the last two decad
 ## List of speakers (constantly being updated)
 
 ---
+
 - [Masoud Mohseni](https://scholar.google.com/citations?user=KhCiiawAAAAJ)    [confirmed] [talk]
 - [Maria Schuld](https://scholar.google.com/citations?user=_ih_hwUAAAAJ)      [tentative] [talk]
 - [Prabha Mandayam](https://scholar.google.com/citations?user=kHDUY0QAAAAJ)   [confirmed] [talk]
@@ -38,5 +48,6 @@ The unprecedented progress in classical machine learning over the last two decad
 - [Lukasz Cincio](https://scholar.google.com/citations?user=opZLj2AAAAAJ)     [confirmed] [talk]
 - [Bibek Pokharel](https://scholar.google.com/citations?user=ZQXqgsEAAAAJ)    [confirmed] [talk]
 - [Prasenjit Sen](https://scholar.google.com/citations?user=t6vcf4_IvjcC)     [confirmed] [talk]
-- [M. S. Santhanam](http://sites.iiserpune.ac.in/~santh/)		      [confirmed] [talk]
+- [M. S. Santhanam](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22M.+S.+Santhanam%22&btnG=) [confirmed] [talk]
+
 ---
