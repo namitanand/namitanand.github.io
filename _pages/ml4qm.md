@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine Learning for Quantum Matter
+title: Machine Learning for Quantum Matter (ML4QM)
 permalink: /ml4qm/
 nav: false
 nav_order: 5
