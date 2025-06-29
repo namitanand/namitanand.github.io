@@ -1,4 +1,5 @@
 ---
+layout: page
 title: ML4QM
 permalink: /ml4qm/
 nav: true
