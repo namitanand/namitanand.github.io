@@ -24,10 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-$$\blacktriangleright$$ I'm a Staff Scientist at NASA Ames' [Quantum AI Lab](https://www.nasa.gov/content/nasa-quantum-artificial-intelligence-laboratory-quail) (QuAIL) and KBR. My research lies at the intersection of quantum information theory, many-body physics, and quantum error correction.
+I'm a Research Scientist at [HPE Labs](https://www.hpe.com/us/en/hpe-labs.html) (HPE Labs) in the HPE Quantum and Emergent Machine Intelligence team. My research lies at the intersection of quantum information theory, many-body physics, and quantum error correction.
 
-$$\blacktriangleright$$ In Summer 2022, I received my PhD in Physics from the University of Southern California under the supervision of [Paolo Zanardi](https://dornsife.usc.edu/profile/paolo-zanardi/). I was fortunate to be coadvised by [Aaron Lauda](https://sites.google.com/view/lauda-home/home) and [Todd Brun](https://sites.usc.edu/tbrun/). 
+From 2022-2025, I was a Staff Scientist at NASA Ames' [Quantum AI Lab](https://www.nasa.gov/content/nasa-quantum-artificial-intelligence-laboratory-quail) (QuAIL) and KBR. In Summer 2022, I received my PhD in Physics from the University of Southern California under the supervision of [Paolo Zanardi](https://dornsife.usc.edu/profile/paolo-zanardi/) and [Aaron Lauda](https://sites.google.com/view/lauda-home/home).
 
-$$\blacktriangleright$$ [Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=293966): on the CS side, my genealogy is: Alan Turing $$\rightarrow$$ Robin Gandy $$\rightarrow$$ Martin Hyland $$\rightarrow$$ Aaron Lauda $$\rightarrow$$ Namit Anand.
+[Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=293966): on the CS side, my academic genealogy is: Alan Turing -> Robin Gandy -> Martin Hyland -> Aaron Lauda -> Namit Anand.
 
 <!-- Before that, I received my Integrated Master of Science (BS-MS) in Physics from the National Institute of Science Education and Research, Bhubaneswar. -->

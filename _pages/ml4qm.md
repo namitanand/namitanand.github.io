@@ -1,21 +1,12 @@
 ---
 layout: page
-title: Machine Learning for Quantum Matter (ML4QM)
+title: ML4QM
 permalink: /ml4qm/
 nav: true
 nav_order: 5
 ---
 
-We are organizing a two-week workshop on Machine Learning for Quantum Matter (ML4QM) in India hosted at [NISER, Bhubaneswar](https://www.niser.ac.in/). The dates are Dec 7 - Dec 18, 2026. The workshop will include ~1 week of lectures and ~1 week of research discussions. We will use the weekend of Dec 12-13 for local [tours](https://odishatourism.gov.in/content/tourism/en/discover/major-cities/bhubaneswar.html) around Odisha.
-
-<div class="row">
-  <div class="col-md-6 offset-md-3">
-    {% include figure.liquid
-         path="assets/img/ml4qm.png"
-         title="Learning quantum matter with neural networks"
-         class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+We are organizing a two-week workshop on Machine Learning for Quantum Matter (ML4QM) hosted at [NISER, Bhubaneswar](https://www.niser.ac.in/). The dates are Dec 7 - Dec 18, 2026. The workshop will include ~1 week of lectures and ~1 week of research discussions. We will use the weekend of Dec 12-13 for local [tours](https://odishatourism.gov.in/content/tourism/en/discover/major-cities/bhubaneswar.html) around Odisha.
 
 ---
 
@@ -76,13 +67,13 @@ The unprecedented progress in classical machine learning over the last two decad
 
 ---
 
-1. [Tapan Mishra](https://scholar.google.com/citations?user=1-sH7MsAAAAJ&hl=en&oi=ao) (NISER, [mishratapan@niser.ac.in](mailto:mishratapan@niser.ac.in))
-2. [Arijit Saha](https://scholar.google.com/citations?hl=en&user=3dKYe5IAAAAJ) (IOP, [arijit@iopb.res.in](mailto:arijit@iopb.res.in))
-3. [Poonam Mehta](https://inspirehep.net/authors/1019229?ui-citation-summary=true) (JNU, [pm@jnu.ac.in](mailto:pm@jnu.ac.in))
-4. [T S Mahesh](https://scholar.google.com/citations?user=ByQDfyIAAAAJ) (IISER Pune, [mahesh.ts@iiserpune.ac.in](mailto:mahesh.ts@iiserpune.ac.in))
-5. [Barry Sanders](https://scholar.google.com/citations?user=s75l9WwAAAAJ&hl=en&oi=ao) (University of Calgary, [sandersb@ucalgary.ca](mailto:sandersb@ucalgary.ca))
-6. [Ryan LaRose](https://scholar.google.com/citations?user=BLeRseAAAAAJ) (Michigan State University, [rmlarose@msu.edu](mailto:rmlarose@msu.edu))
-7. [Sourin Das](https://arxiv.org/search/?searchtype=author&query=Das%2C+Sourin&abstracts=show&size=100&order=-announced_date_first) (IISER Kolkata, [sourin@iiserkol.ac.in](mailto:sourin@iiserkol.ac.in))
-8. [Namit Anand](https://scholar.google.com/citations?user=LzzOXKoAAAAJ&hl=en) (HPE Labs, [namitana@usc.edu](mailto:namitana@usc.edu))
+1. [Tapan Mishra](https://scholar.google.com/citations?user=1-sH7MsAAAAJ&hl=en&oi=ao) (NISER)
+2. [Arijit Saha](https://scholar.google.com/citations?hl=en&user=3dKYe5IAAAAJ) (IOP)
+3. [Poonam Mehta](https://inspirehep.net/authors/1019229?ui-citation-summary=true) (JNU)
+4. [T S Mahesh](https://scholar.google.com/citations?user=ByQDfyIAAAAJ) (IISER Pune)
+5. [Barry Sanders](https://scholar.google.com/citations?user=s75l9WwAAAAJ&hl=en&oi=ao) (University of Calgary)
+6. [Ryan LaRose](https://scholar.google.com/citations?user=BLeRseAAAAAJ) (Michigan State University)
+7. [Sourin Das](https://arxiv.org/search/?searchtype=author&query=Das%2C+Sourin&abstracts=show&size=100&order=-announced_date_first) (IISER Kolkata)
+8. [Namit Anand](https://scholar.google.com/citations?user=LzzOXKoAAAAJ&hl=en) (HPE Labs)
 
 ---
