@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Research Scientist at [HPE Labs](https://www.hpe.com/us/en/hpe-labs.html) (HPE Labs) in the HPE Quantum and Emergent Machine Intelligence team. My research lies at the intersection of quantum information theory, many-body physics, and quantum error correction.
+I'm a Research Scientist at [HPE Labs](https://www.hpe.com/us/en/hpe-labs.html) in the HPE Quantum and Emergent Machine Intelligence team(s). My research interests are at the intersection of quantum information, many-body physics, and learning theory.
 
 From 2022-2025, I was a Staff Scientist at NASA Ames' [Quantum AI Lab](https://www.nasa.gov/content/nasa-quantum-artificial-intelligence-laboratory-quail) (QuAIL) and KBR. In Summer 2022, I received my PhD in Physics from the University of Southern California under the supervision of [Paolo Zanardi](https://dornsife.usc.edu/profile/paolo-zanardi/) and [Aaron Lauda](https://sites.google.com/view/lauda-home/home).
 
