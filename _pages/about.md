@@ -24,11 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Research Scientist in the HPE Quantum and Emergent Machine Intelligence team at [HPE Labs](https://www.hpe.com/us/en/hpe-labs.html). My research lies at the intersection of quantum information, many-body physics, and computational complexity.
+I'm a Research Scientist in the HPE Quantum and Emergent Machine Intelligence team at [HPE Labs](https://www.hpe.com/us/en/hpe-labs.html). My research lies at the intersection of quantum information, many-body physics, and classical simulation techniques.
 
-From 2022-2025, I was a Staff Scientist at NASA Ames' [Quantum AI Lab](https://www.nasa.gov/content/nasa-quantum-artificial-intelligence-laboratory-quail) (QuAIL) and KBR. In Summer 2022, I received my PhD in Physics from the University of Southern California under the supervision of [Paolo Zanardi](https://dornsife.usc.edu/profile/paolo-zanardi/) and [Aaron Lauda](https://sites.google.com/view/lauda-home/home).
+From 2022-2025, I was a Staff Scientist at the NASA [Quantum AI Lab](https://www.nasa.gov/content/nasa-quantum-artificial-intelligence-laboratory-quail) (QuAIL) and KBR. In Summer 2022, I received my PhD in Physics from the University of Southern California under the supervision of [Paolo Zanardi](https://dornsife.usc.edu/profile/paolo-zanardi/) and [Aaron Lauda](https://sites.google.com/view/lauda-home/home).
 
-[Mathematics Genealogy Project](https://www.mathgenealogy.org/id.php?id=293966): on the CS side, my academic genealogy is: Alan Turing -> Robin Gandy -> Martin Hyland -> Aaron Lauda -> Namit Anand.
+I'm an Editorial Board Member for the journal [Quantum Science and Technology](https://publishingsupport.iopscience.iop.org/journals/quantum-science-technology/editorial-board/). On the CS side, my academic [genealogy](https://www.mathgenealogy.org/id.php?id=293966) is: Alan Turing -> Robin Gandy -> Martin Hyland -> Aaron Lauda -> Namit Anand.
 
 ----
 
