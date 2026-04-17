@@ -376,16 +376,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-ll-be-in-aspen-this-fall-for-the-program-on-advances-in-quantum-simulation-from-quarks-to-chemistry-and-then-at-kitp-for-ai-for-quantum-matter",
+          title: 'I’ll be in Aspen this Fall for the program on Advances in Quantum...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
