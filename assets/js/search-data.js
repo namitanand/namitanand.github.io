@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-research",
-          title: "research",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/";
-          },
         },{id: "nav-ml4qm",
           title: "ML4QM",
           description: "",
@@ -380,12 +373,12 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-ll-be-in-aspen-this-fall-for-the-program-on-advances-in-quantum-simulation-from-quarks-to-chemistry-and-then-at-kitp-for-ai-for-quantum-matter",
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-i-ll-be-in-aspen-this-fall-for-the-program-on-advances-in-quantum-simulation-from-quarks-to-chemistry-and-then-at-kitp-for-ai-for-quantum-matter",
           title: 'I’ll be in Aspen this Fall for the program on Advances in Quantum...',
+          description: "",
+          section: "News",},{id: "news-i-ll-be-giving-a-talk-about-our-qudit-designs-paper-at-the-stanford-qiqc-seminar",
+          title: 'I’ll be giving a talk about our qudit designs paper at the Stanford...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
