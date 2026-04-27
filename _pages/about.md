@@ -30,7 +30,7 @@ From 2022-2025, I was a Staff Scientist at the NASA [Quantum AI Lab](https://www
 
 I'm an Editorial Board Member for the journal [Quantum Science and Technology](https://publishingsupport.iopscience.iop.org/journals/quantum-science-technology/editorial-board/). 
 
-On the CS side, my academic [genealogy](https://www.mathgenealogy.org/id.php?id=293966) is: Alan Turing => Robin Gandy => Martin Hyland => Aaron Lauda => Namit Anand.
+On the CS side, my academic [genealogy](https://www.mathgenealogy.org/id.php?id=293966) is: Alan Turing => ... => Aaron Lauda => Namit Anand.
 
 ----
 
