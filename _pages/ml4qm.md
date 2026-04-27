@@ -3,7 +3,7 @@ layout: page
 title: ml4qm
 permalink: /ml4qm/
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 We are organizing a two-week workshop on Machine Learning for Quantum Matter (ML4QM) hosted at [NISER, Bhubaneswar](https://www.niser.ac.in/). The dates are Dec 7 - Dec 18, 2026. The workshop will include ~1 week of lectures and ~1 week of research discussions. We will use the weekend of Dec 12-13 for local [tours](https://odishatourism.gov.in/content/tourism/en/discover/major-cities/bhubaneswar.html) around Odisha.
