@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ML4QM
+title: ml4qm
 permalink: /ml4qm/
 nav: true
 nav_order: 5
