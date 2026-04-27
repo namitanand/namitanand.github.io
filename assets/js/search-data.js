@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-ml4qm",
-          title: "ML4QM",
+          title: "ml4qm",
           description: "",
           section: "Navigation",
           handler: () => {
