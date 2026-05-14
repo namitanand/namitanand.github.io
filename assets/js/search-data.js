@@ -369,16 +369,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
             },},{id: "news-i-ll-be-in-aspen-this-fall-for-the-program-on-advances-in-quantum-simulation-from-quarks-to-chemistry-and-then-at-kitp-for-ai-for-quantum-matter",
           title: 'I’ll be in Aspen this Fall for the program on Advances in Quantum...',
           description: "",
           section: "News",},{id: "news-i-ll-be-giving-a-talk-about-our-qudit-designs-paper-at-the-stanford-qiqc-seminar",
           title: 'I’ll be giving a talk about our qudit designs paper at the Stanford...',
+          description: "",
+          section: "News",},{id: "news-i-m-co-organizing-quantum-san-diego-at-ucsd-from-may-18-19-come-join-us-for-some-excellent-talks-and-discussions",
+          title: 'I’m co-organizing Quantum San Diego at UCSD from May 18-19. Come join us...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
