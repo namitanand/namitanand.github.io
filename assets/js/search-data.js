@@ -428,7 +428,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6E%61%6D%69%74%61%6E%61@%75%73%63.%65%64%75", "_blank");
+          window.open("mailto:%6E%61%6D%69%74%6E%69%73%65%72%31%31@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
@@ -457,6 +457,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=LzzOXKoAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://arxiv.org/a/anand_n_1.html", "_blank");
         },
       },{
       id: 'light-theme',
