@@ -459,11 +459,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=LzzOXKoAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-arxiv_id',
+        title: 'Arxiv_id',
         section: 'Socials',
         handler: () => {
-          window.open("https://arxiv.org/a/anand_n_1.html", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
