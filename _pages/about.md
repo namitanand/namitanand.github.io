@@ -24,7 +24,7 @@ latest_posts:
   limit: 1 # leave blank to include all the blog posts
 ---
 
-I'm a Research Scientist at [HPE Labs](https://www.hpe.com/us/en/hpe-labs.html) working at the intersection of quantum information, many-body physics, and classical simulation techniques.
+I'm a Research Scientist in the Quantum team at [HPE Labs](https://www.hpe.com/us/en/hpe-labs.html). My work lies at the intersection of quantum information theory, many-body physics, and classical simulation techniques.
 
 From 2022-2025, I was a Staff Scientist at the NASA [Quantum AI Lab](https://www.nasa.gov/content/nasa-quantum-artificial-intelligence-laboratory-quail) (QuAIL) and KBR. In Summer 2022, I received my PhD in Physics from USC under the (wonderful) supervision of [Paolo Zanardi](https://dornsife.usc.edu/profile/paolo-zanardi/) and [Aaron Lauda](https://sites.google.com/view/lauda-home/home).
 
