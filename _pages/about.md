@@ -28,7 +28,7 @@ I'm a Research Scientist in the Quantum team at [HPE Labs](https://www.hpe.com/u
 
 From 2022-2025, I was a Staff Scientist at the NASA [Quantum AI Lab](https://www.nasa.gov/content/nasa-quantum-artificial-intelligence-laboratory-quail) (QuAIL) and KBR. In Summer 2022, I received my PhD in Physics from USC under the (wonderful) supervision of [Paolo Zanardi](https://dornsife.usc.edu/profile/paolo-zanardi/) and [Aaron Lauda](https://sites.google.com/view/lauda-home/home).
 
-I'm an Editorial Board Member for the journal [Quantum Science and Technology](https://publishingsupport.iopscience.iop.org/journals/quantum-science-technology/editorial-board/). 
+I serve on the Editorial Board for the IOP journal [Quantum Science and Technology](https://publishingsupport.iopscience.iop.org/journals/quantum-science-technology/editorial-board/). 
 
 On the CS side, my academic [genealogy](https://www.mathgenealogy.org/id.php?id=293966) is: Alan Turing => ... => Aaron Lauda => Namit Anand.
 
